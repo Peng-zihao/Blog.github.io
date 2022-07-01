@@ -37,5 +37,7 @@ git commit -m "提交说明"
 git push --set -upstream origin backups 
 //下载backup分支下的代码
 git clone -b backups https://github.com/Peng-zihao/Blog.github.io.git
+
+git push origin back
 ```
 
